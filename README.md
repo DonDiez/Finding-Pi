@@ -19,7 +19,11 @@ We already know what the radius is, and that's great. This make it easier for la
 We also need to imagine that the entire circle is inside a square. *Fast math => a (r*2)² square*. 
 **Why do you ask**? Because the rational between the area of the square and the circle is magical. 
 It will be the same as the relation of the 1/4 circle and the square in our coordinate system (1x1).
+
 ![Zoom](img/zoom.png)
+
+
+
 
 
 Using this knowledge and some mathematical mixing, it is possible to make this
