@@ -45,4 +45,5 @@ Now by coding all this math with some method of keeping track of the total dots 
 
 
 Here it is!
+
 ![res](img/screen.png)
