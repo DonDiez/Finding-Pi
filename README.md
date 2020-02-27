@@ -44,5 +44,5 @@ Now by coding all this math with some method of keeping track of the total dots 
 
 
 
-
-![res](img/Screenshot from 2020-02-27 22-16-24.png)
+Here it is!
+![res](img/screen.png)
