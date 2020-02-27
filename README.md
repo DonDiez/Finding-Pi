@@ -11,7 +11,7 @@ It sounds almost as a joke, but it is possible.
 By using the function twice, you will end up with two values that could represent a position in a coordinate. The coordinates would be everywhere inside a 1x1 coordinate. 
 
 Lets imagine that the 1x1 coordinate represent the top right corner (1/4) of a entire circle. 
-![Relation|](img/ballen.png)
+![Relation|](img/ballen.png =100x20)
 
 
 
